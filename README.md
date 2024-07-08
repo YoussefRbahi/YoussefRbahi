@@ -2,8 +2,6 @@
 
 I build pixel-perfect, engaging, and accessible digital experiences. Welcome to my GitHub profile!
 
-- 🌐 **Website:** [rbahi.com](https://rbahi.com)
-- 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/youssefrbahi/) | [X](https://x.com/youssef_rbahi) | [Email](mailto:contact@rbahi.com)
 
 ### 🔧 Technologies & Tools
 
