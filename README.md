@@ -1,15 +1,15 @@
 # Youssef Rbahi
 
-## About Me
-
-Hello! I'm Youssef Rbahi, a passionate web developer specializing in creating engaging and accessible digital experiences. With a background in marketing and a strong focus on frontend development, I love building intuitive and visually appealing web applications.
-
-
 ![React](https://img.shields.io/badge/-React-271f63?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+
+## About Me
+
+Hello! I'm Youssef Rbahi, a passionate web developer specializing in creating engaging and accessible digital experiences. With a background in marketing and a strong focus on frontend development, I love building intuitive and visually appealing web applications.
+
 
 ## 🚀 Currently Building
 
