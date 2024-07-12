@@ -1,12 +1,9 @@
 # Youssef Rbahi
 
-👨‍💻 Web Developer | 🎨 UX Enthusiast | 🌱 Lifelong Learner
-
 ## About Me
 
 Hello! I'm Youssef Rbahi, a passionate web developer specializing in creating engaging and accessible digital experiences. With a background in marketing and a strong focus on frontend development, I love building intuitive and visually appealing web applications.
 
-## 🛠️ Main Tech Stack
 
 ![React](https://img.shields.io/badge/-React-271f63?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)
