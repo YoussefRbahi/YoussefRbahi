@@ -13,8 +13,8 @@
 
 ## 🚀 Currently Building
 
-1. **Etch-A-Guess:** Local multiplayer drawing game *(Coming soon)*
-2. **Reddit Job Board:** AI-powered job aggregator *(Coming soon)*
+1. **Etch-A-Guess:** Local multiplayer drawing game
+2. **Reddit Job Board:** AI-powered job aggregator
 
 ## 🌟 Latest Project
 
