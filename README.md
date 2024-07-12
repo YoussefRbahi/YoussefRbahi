@@ -1,36 +1,29 @@
-### Hi there, I'm Youssef! 👋
+# Yousef Rbahi
 
-I build pixel-perfect, engaging, and accessible digital experiences. Welcome to my GitHub profile!
+Web Developer | UX Enthusiast | Lifelong Learner
 
+## Tech Stack
 
-### 🔧 Technologies & Tools
-
-- **Frontend:** React, Vue.js, Tailwind CSS, Bootstrap
+- **Frontend:** React, Vue.js, Tailwind, Bootstrap
 - **Backend:** Node.js, SQL, REST APIs
 - **Design:** Adobe Illustrator, Figma
-- **Other:** Git, WordPress, Docker, SEO
+- **Tools:** Git, WordPress, Docker, SEO
 
-### 🚀 Current Projects
+## Current Projects
 
-- **Etch-A-Guess:** A local multiplayer drawing game controlled by your phone.
-- **Reddit Job Board:** A job board that crawls Reddit for job postings and formats them using an LLM.
+- **Fontcetera:** Unicode text formatter Chrome extension
+- **Etch-A-Guess:** Local multiplayer drawing game (In Progress)
+- **Reddit Job Board:** AI-powered job aggregator (In Progress)
 
-### 📚 Learning
+## Professional Development
 
-- Currently pursuing an MSc in Computer Science with Data Analytics.
-- Exploring more of the dark side of web development (the backend).
+- MSc in Computer Science with Data Analytics (Ongoing)
+- Expanding expertise in advanced backend development
 
-### 💬 Ask Me About
+## Connect
 
-- Optimizing websites for performance and SEO.
-- The latest fad framework that is finally going to "kill" React.
+- Email: your.email@example.com
+- GitHub: [youssefrbahi](https://github.com/youssefrbahi)
+- LinkedIn: [Yousef Rbahi](https://linkedin.com/in/yourusername)
 
-### 🌱 Interests
-
-- Keeping my win streak at the weekly trivia night.
-- Improving my Turkish language skills.
-- Playing pickleball while pretending it has a much cooler name.
-<!--
-### 📈 GitHub Stats
-
-![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssefrbahi&show_icons=true&theme=radical)-->
+> Crafting efficient, user-centric digital solutions
